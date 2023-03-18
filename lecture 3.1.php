@@ -6,6 +6,13 @@
 	<title></title>
 </head>
 <body>
+	git init 
+	git add .
+	git commit -m "first commit"
+    git push -u origin master
+    
+
+
 	<ol type="i">
 		<li>Mangoes</li>
 			<ul type="square">
