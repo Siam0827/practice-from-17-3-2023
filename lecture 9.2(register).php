@@ -64,7 +64,7 @@
 		}
 		else
 		{
-			$name=$_POST["username"];
+			$username=$_POST["username"];
 		}
 
 
@@ -151,6 +151,7 @@
 </head>
 <body>
 	<center>
+	<h1>Create an Account</h1>
 	<fieldset>
 		<div style="border:1px solid ">
 			<form action="" method="post">
